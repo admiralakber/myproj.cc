@@ -1,0 +1,3 @@
+[submodule "cmake/ezmake"]
+	path = cmake/ezmake
+	url = https://github.com/thaum0/ezmake
